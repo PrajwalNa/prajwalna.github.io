@@ -11,7 +11,7 @@ I am Prajwal Nautiyal, a Cybersecurity student at Sheridan College. I'm passiona
 ## Education
 * * *
 ### Honours Bachelor of Information Sciences (CyberSecurity)
-#### Sheridan College, Oakville, Canada ---- 2022 – 2026
+#### Sheridan College, Oakville, Canada       ---       2022 – 2026
 * 3.85 CGPA
 * Entrance Scholarship recipient
 
@@ -19,8 +19,8 @@ I am Prajwal Nautiyal, a Cybersecurity student at Sheridan College. I'm passiona
 ## Professional Experience
 * * *
 ### Student Researcher
-#### Centre for Applied AI
-#### Sheridan College, Oakville, Canada ---- January 2024 – Present 
+Centre for Applied AI
+Sheridan College, Oakville, Canada        ---       January 2024 – Present 
 
 
 ## Certifications
@@ -43,7 +43,7 @@ I am Prajwal Nautiyal, a Cybersecurity student at Sheridan College. I'm passiona
 ## PROJECTS
 * * *
 ### [ARP spoofer](https://github.com/PrajwalNa/Spoofer)
-This project is a Python script that uses the scapy library to spoof the MAC address and IP address of a network device and perform a `man in the middle` attack. It allows the user to intercept and modify the network traffic between a target device and the router. It also has a function to restore the original network configuration when the script is stopped.
+This project is a Python script that uses the scapy library to spoof the MAC address and IP address of a network device and perform a 'man in the middle' attack. It allows the user to intercept and modify the network traffic between a target device and the router. It also has a function to restore the original network configuration when the script is stopped.
 
 #### Features of this project:
 * Spoofing the MAC address and IP address of any network interface on the device using scapy.
