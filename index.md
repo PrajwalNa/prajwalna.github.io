@@ -63,7 +63,7 @@ This project is a Python script that uses the scapy library to spoof the MAC add
 
 #### Learning Outcomes:
 * Python programming, especially using the scapy and argparse modules.
-* Network security concepts, such as MAC address spoofing, IP address spoofing, and `man in the middle` attacks.
+* Network security concepts, such as MAC address spoofing, IP address spoofing, and 'man in the middle' attacks.
 * Network analysis and troubleshooting tools, such as Wireshark and Nmap.
 * Project management and documentation best practices in a code.
 
