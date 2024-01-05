@@ -22,8 +22,8 @@ I am Prajwal Nautiyal, a Cybersecurity student at Sheridan College. I'm passiona
 ## Professional Experience
 * * *
 ### Student Researcher
-Centre for Applied AI
-Sheridan College, Oakville, Canada        ---       January 2024 – Present 
+#### Centre for Applied AI
+> Sheridan College, Oakville, Canada        ---       January 2024 – Present 
 
 
 ## Certifications
