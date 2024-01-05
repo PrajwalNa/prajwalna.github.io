@@ -5,24 +5,23 @@ I am Prajwal Nautiyal, a Cybersecurity student at Sheridan College. I'm passiona
 
 ## Education
 * * *
-### Honours Bachelor of Information Sciences (CyberSecurity)
-#### Sheridan College, Oakville, Canada       ---       2022 – 2026
+### Honours Bachelor of Information Sciences (CyberSecurity) --- ---  Sep '21 – Present
+#### Sheridan College, Oakville, Canada
 * 3.85 CGPA
 * Entrance Scholarship recipient
 
 
 ## Professional Experience
 * * *
-### Student Researcher
+### Student Researcher  --- ---  Jan '24 – Present
 #### Centre for Applied AI
-> Sheridan College, Oakville, Canada        ---       January 2024 – Present 
+#### Sheridan College, Oakville, Canada 
 
 
 ## Certifications
 * * *
 * Google Cybersecurity Specialization Certificate
-* Google Technical Support Fundamentals
-* ISO/IEC 27001 Information Security Management Systems Awareness On-demand Training Course
+* Google Technical Support Fundamentals Certificate
 * Working towards CompTIA Security+ certification
 
 
