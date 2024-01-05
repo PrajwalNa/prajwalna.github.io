@@ -1,6 +1,9 @@
-> Email: prajwalnautiyal2003@gmailcom
+> Email: prajwalnautiyal2003@gmail.com
+>
 > Location: GTA, Ontario, Canada
+>
 > Phone: +1 (365) 999-3537
+>
 > Linkedin: https://www.linkedin.com/in/prajwal-nautiyal-19205624a/
 
 ## Who am I?
