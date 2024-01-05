@@ -1,11 +1,3 @@
-> Email: prajwalnautiyal2003@gmail.com
->
-> Location: GTA, Ontario, Canada
->
-> Phone: +1 (365) 999-3537
->
-> Linkedin: https://www.linkedin.com/in/prajwal-nautiyal-19205624a/
-
 ## Who am I?
 * * *
 I am Prajwal Nautiyal, a Cybersecurity student at Sheridan College. I'm passionate about cybersecurity as it is a domain which has a lot to learn and it keeps challenging me with new and interesting things. I am also very fascinated with computer systems and strive to learn more about them. I am a quick learner and a team player. I am always looking for opportunities to learn and grow. I am eager to explore new things and I am always up for a challenge, and would especially like to delve deeper into the field of cybersecurity and get a chance to develop my skills and knowledge.
