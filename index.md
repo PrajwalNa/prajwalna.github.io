@@ -5,7 +5,8 @@ A Cybersecurity student at Sheridan College. I'm passionate about cybersecurity 
 
 ## Education
 * * *
-### Honours Bachelor of Information Sciences (CyberSecurity) --- ---  Sep '21 – Present
+### Honours Bachelor of Information Sciences (CyberSecurity)
+  Sep '22 – Aug '26 (Expected) 
 #### Sheridan College, Oakville, Canada
 * 3.85 CGPA
 * Entrance Scholarship recipient
@@ -13,7 +14,8 @@ A Cybersecurity student at Sheridan College. I'm passionate about cybersecurity 
 
 ## Professional Experience
 * * *
-### Student Researcher  --- ---  Jan '24 – Present
+### Student Researcher
+  Jan '24 – Present
 #### Centre for Applied AI
 #### Sheridan College, Oakville, Canada 
 
