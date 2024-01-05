@@ -36,7 +36,7 @@ I'm a Cybersecurity student at Sheridan College. I'm passionate about cybersecur
 * Positively exceptional customer service abilities, consistently maintaining a professional attitude.
 
 
-## PROJECTS
+## Projects
 * * *
 ### [ARP spoofer](https://github.com/PrajwalNa/Spoofer)
 This project is a Python script that uses the scapy library to spoof the MAC address and IP address of a network device and perform a 'man in the middle' attack. It allows the user to intercept and modify the network traffic between a target device and the router. It also has a function to restore the original network configuration when the script is stopped.
