@@ -21,7 +21,7 @@ I'm a Cybersecurity student at Sheridan College. I'm passionate about cybersecur
 * Worked in a team of 6 Researcher on the a Research Project titled “Objective Method for Diagnosis of Chronic Pain” in collaboration with Karmy Clinic.
 * Conducted research on identifying pain through facial expressions using machine learning.
 * Collaborated with a diverse team of researchers, fostering a collaborative environment to drive the project forward.
-* Leveraged C++ and Python to enhance the functionality and performance of the software.
+* Worked with Pytorch and OpenFace for a deep learning model for deception detection.
 * Conducted comprehensive research on the software and related projects to deepen my understanding of the underlying technology and to identify innovative ideas for enhancing the software.
 
 
@@ -69,3 +69,4 @@ I'm a Cybersecurity student at Sheridan College. I'm passionate about cybersecur
 * Challenges faced include understanding different **memory addressing modes**, proper usage of the **stack**, finding the right **BIOS interrupt** for specific operations, and managing **program control flow**.
 * The project has led to learning outcomes such as understanding **assembly programming**, **low-level computer operations**, **stack operations**, and **BIOS interrupts** of the 8086 microprocessor.
 * The exploration and learning in this domain continue, with interest in **modern x86-64 assembly** and **ARM assembly**.
+* Recently made a simple **paint** application in ASM, used mouse initialisation in 8086. [Check it out here](https://github.com/PrajwalNa/PaintASM)
