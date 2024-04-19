@@ -90,7 +90,7 @@ Jan '24 – Present
 - Challenges faced include understanding different **memory addressing modes**, proper usage of the **stack**, finding the right **BIOS interrupt** for specific operations, and managing **program control flow**.
 - The project has led to learning outcomes such as understanding **assembly programming**, **low-level computer operations**, **stack operations**, and **BIOS interrupts** of the 8086 microprocessor.
 - The exploration and learning in this domain continue, with interest in **modern x86-64 assembly** and **ARM assembly**.
-- Recently made a simple **paint** application in ASM, used mouse initialisation in 8086. [Check it out here](https://github.com/PrajwalNa/PaintASM)
+- Recently made a simple **paint application** in ASM, used **mouse initialisation** in 8086. [Check it out here](https://github.com/PrajwalNa/PaintASM)
 
 ### [Linear Regression Model](https://github.com/PrajwalNa/LinearModel)
 
