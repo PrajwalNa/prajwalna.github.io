@@ -91,3 +91,11 @@ Jan '24 – Present
 - The project has led to learning outcomes such as understanding **assembly programming**, **low-level computer operations**, **stack operations**, and **BIOS interrupts** of the 8086 microprocessor.
 - The exploration and learning in this domain continue, with interest in **modern x86-64 assembly** and **ARM assembly**.
 - Recently made a simple **paint** application in ASM, used mouse initialisation in 8086. [Check it out here](https://github.com/PrajwalNa/PaintASM)
+
+### [Linear Regression Model](https://github.com/PrajwalNa/LinearModel)
+
+- The project is a ML model created using PyTorch that implements a **linear regression model** using the **ADAM optimisation algorithm**.
+- The model is trained on a dataset of random data points and is capable of predicting the output for new data points.
+- The project uses **PyTorch** for creating the model, **matplotlib** for visualising the data and the model, and **cuda tensors** for tensor processing.
+- I have learned about **gradient descent**, **backpropagation**, **optimisation algorithms**, **loss functions**, and **model evaluation**.
+- The project has provided insights into **machine learning**, **deep learning**, **PyTorch**, and **data visualisation**.
