@@ -4,6 +4,8 @@
 
 I'm a Cybersecurity student at Sheridan College. I'm passionate about cybersecurity as it is a domain which has a lot to learn and it keeps challenging me with new and interesting things. I am also very fascinated with computer systems and strive to learn more about them. I am a quick learner and a team player. I am always looking for opportunities to learn and grow. I am eager to explore new things and I am always up for a challenge, and would especially like to delve deeper into the field of cybersecurity and get a chance to develop my skills and knowledge.
 
+[My Blog](https://prajwalcyberprojects.blogspot.com/)
+
 ## Education
 
 ---
@@ -14,7 +16,7 @@ Sep '22 – Aug '26 (Expected)
 
 #### Sheridan College, Oakville, Canada
 
-- 3.85 CGPA
+- 3.87 CGPA
 - Entrance Scholarship recipient
 
 ## Professional Experience
