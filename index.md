@@ -93,3 +93,12 @@ Jan '24 – Present
 - The project uses **PyTorch** for creating the model, **matplotlib** for visualising the data and the model, and **cuda tensors** for tensor processing.
 - I have learned about **gradient descent**, **backpropagation**, **optimisation algorithms**, **loss functions**, and **model evaluation**.
 - The project has provided insights into **machine learning**, **deep learning**, **PyTorch**, and **data visualisation**.
+
+### [Network Packet Sniffer](https://github.com/PrajwalNa/Sniffer)
+
+- A tool made using C and the **socket programming API** that captures network packets and displays their contents.
+- The tool uses **raw sockets** to capture packets at the **data link layer** and **packet filtering** to capture specific packets.
+- Allows user to filter packets based on **IP address** and **protocol**.
+- Helps in understanding the **structure of network packets**, **packet headers**, and **packet data**.
+- The project has provided insights into **network programming**, **packet capturing**, **packet analysis**, and **socket programming**.
+- Learned a lot about low-level network operations, **packet sniffing**, and **packet filtering** in linux kernel.
