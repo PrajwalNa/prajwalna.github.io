@@ -16,7 +16,7 @@ Sep '22 – Aug '26 (Expected)
 
 #### Sheridan College, Oakville, Canada
 
-- 3.87 CGPA
+- 3.87 CGPA (Professional)
 - Entrance Scholarship recipient
 
 ## Professional Experience
