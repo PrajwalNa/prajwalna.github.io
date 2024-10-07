@@ -80,6 +80,15 @@ Jan '24 – Sep '24
 - The [second one](https://kernelmode0x0.blogspot.com/2024/08/windows-shellcoding-2.html) was an improvisation of the my initial attempt.
 - Finally, [the last one](https://kernelmode0x0.blogspot.com/2024/09/windows-shellcoding-3-tcp-reverse-shell.html) was made after I researched into shellcoding practices and was able to learn how a null byte free shellcode can actually be achieved, I used a variation of this in one of the CTF challenges I helped create.
 
+### [Network Packet Sniffer](https://github.com/PrajwalNa/Sniffer)
+
+- A tool made using C and the **socket programming API** that captures network packets and displays their contents.
+- The tool uses **raw sockets** to capture packets at the **data link layer** and **packet filtering** to capture specific packets.
+- Allows user to filter packets based on **IP address** and **protocol**.
+- Helps in understanding the **structure of network packets**, **packet headers**, and **packet data**.
+- The project has provided insights into **network programming**, **packet capturing**, **packet analysis**, and **socket programming**.
+- Learned a lot about low-level network operations, **packet sniffing**, and **packet filtering** in linux kernel.
+
 ### [ARP spoofer](https://github.com/PrajwalNa/Spoofer)
 
 - The project is a Python script that uses the scapy library to perform a **‘man in the middle’** attack by spoofing the MAC and IP addresses of a network device.
@@ -116,12 +125,3 @@ Jan '24 – Sep '24
 - The project uses **PyTorch** for creating the model, **matplotlib** for visualising the data and the model, and **cuda tensors** for tensor processing.
 - I have learned about **gradient descent**, **backpropagation**, **optimisation algorithms**, **loss functions**, and **model evaluation**.
 - The project has provided insights into **machine learning**, **deep learning**, **PyTorch**, and **data visualisation**.
-
-### [Network Packet Sniffer](https://github.com/PrajwalNa/Sniffer)
-
-- A tool made using C and the **socket programming API** that captures network packets and displays their contents.
-- The tool uses **raw sockets** to capture packets at the **data link layer** and **packet filtering** to capture specific packets.
-- Allows user to filter packets based on **IP address** and **protocol**.
-- Helps in understanding the **structure of network packets**, **packet headers**, and **packet data**.
-- The project has provided insights into **network programming**, **packet capturing**, **packet analysis**, and **socket programming**.
-- Learned a lot about low-level network operations, **packet sniffing**, and **packet filtering** in linux kernel.
