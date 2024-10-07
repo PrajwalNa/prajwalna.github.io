@@ -23,9 +23,21 @@ Sep '22 – Aug '26 (Expected)
 
 ---
 
+### CTF Developer
+
+May 2024 – present
+
+#### ISSessions
+
+#### Sheridan College, Oakville, Canada
+
+- Collaborated in a diverse team and created challenges incorporating actual malware techniques to get the challenge takers to experience real world techniques.
+- Made both solo challenges and worked together in a team of 3 to create a group experience in form of multi stage challenges.
+
+
 ### Student Researcher
 
-Jan '24 – Present
+Jan '24 – Sep '24
 
 #### Centre for Applied AI
 
@@ -41,16 +53,18 @@ Jan '24 – Present
 
 ---
 
-- Google Cybersecurity Specialization Certificate
-- Google Technical Support Fundamentals Certificate
-- Working towards CompTIA Security+ certification
+- [TCM Security Practical Junior Malware Researcher (PJMR)](https://certified.tcm-sec.com/c9fa9d80-317b-4e1f-a1b9-60af76303f84?key=1578e64a22c112f33e494c88b153c0f6298e51152b67cdb15010e96679ecd4a8)
+- [Comptia Security+](https://www.credly.com/badges/f1890a8e-71d6-4adf-9846-4a0b9db36f37/linked_in_profile)
+- [Google Cybersecurity Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/577FST5T7YGU)
+- Working towards OSED!
 
 ## Skills
 
 ---
 
 - Familiarity with fundamental networking principles and protocols such as the OSI model, TCP/IP, Wi-Fi, and ARP.
-- Skilled in Python, C/C++, Linux Command Line, and SQL.
+- Skilled in Python, C, Linux Command Line, and SQL.
+- Knowlegde of x86 Assembly and Reverse Engineering.
 - Clear and organized communication, interpersonal, and organizational skills in both oral and written forms.
 - Capacity to tackle challenging problems due to good problem solving capabilities and manage stressful situations.
 - Positively exceptional customer service abilities, consistently maintaining a professional attitude.
@@ -58,6 +72,13 @@ Jan '24 – Present
 ## Projects
 
 ---
+
+### [My Attempts at Creating Shellcode](https://github.com/PrajwalNa/Shellcode)
+
+- There are three different versions, each docmented and having a relevant blog post for them.
+- The [first one](https://kernelmode0x0.blogspot.com/2024/08/windows-shellcoding.html) was made by taking inspiration from some samples I analysed while working towards my PJMR certification.
+- The [second one](https://kernelmode0x0.blogspot.com/2024/08/windows-shellcoding-2.html) was an improvisation of the my initial attempt.
+- Finally, [the last one](https://kernelmode0x0.blogspot.com/2024/09/windows-shellcoding-3-tcp-reverse-shell.html) was made after I researched into shellcoding practices and was able to learn how a null byte free shellcode can actually be achieved, I used a variation of this in one of the CTF challenges I helped create.
 
 ### [ARP spoofer](https://github.com/PrajwalNa/Spoofer)
 
